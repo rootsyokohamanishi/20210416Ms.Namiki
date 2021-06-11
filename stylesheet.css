@@ -1,4 +1,11 @@
 @charset "UTF-8";
-h1 {
+header {
+    background-image: url(https://raw.githubusercontent.com/rootsyokohamanishi/20210416Ms.Namiki/main/roots-header.jpg);
+    height: auto;
+    margin-bottom: 40pt;
+}
+
+header h1 {
+    text-align: center;
     color: #1c315d;
 }
